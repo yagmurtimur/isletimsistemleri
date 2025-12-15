@@ -1,6 +1,6 @@
-# İşletim Sistemleri 10. Hafta Ödevi
+# İşletim Sistemleri Ödevi
 
-Bu repository, İşletim Sistemleri dersi için 10. hafta kapsamında
+Bu repository, İşletim Sistemleri dersi için 
 yapılan ödev çalışmalarını içermektedir.
 
 ## İçerik
